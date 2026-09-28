@@ -1,0 +1,18 @@
+C:\Users\User\source\repos\avtobus\avtobus tapsirigi\avtobus tapsirigi\obj\Debug\net10.0-windows\avtobus_tapsirigi.Properties.Resources.resources
+C:\Users\User\source\repos\avtobus\avtobus tapsirigi\avtobus tapsirigi\obj\Debug\net10.0-windows\avtobus tapsirigi.csproj.GenerateResource.cache
+C:\Users\User\source\repos\avtobus\avtobus tapsirigi\avtobus tapsirigi\obj\Debug\net10.0-windows\avtobus tapsirigi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\avtobus\avtobus tapsirigi\avtobus tapsirigi\obj\Debug\net10.0-windows\avtobus tapsirigi.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\avtobus\avtobus tapsirigi\avtobus tapsirigi\obj\Debug\net10.0-windows\avtobus tapsirigi.AssemblyInfo.cs
+C:\Users\User\source\repos\avtobus\avtobus tapsirigi\avtobus tapsirigi\obj\Debug\net10.0-windows\avtobus tapsirigi.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\avtobus\avtobus tapsirigi\avtobus tapsirigi\obj\Debug\net10.0-windows\avtobus_tapsirigi.Form1.resources
+C:\Users\User\source\repos\avtobus\avtobus tapsirigi\avtobus tapsirigi\bin\Debug\net10.0-windows\avtobus tapsirigi.exe
+C:\Users\User\source\repos\avtobus\avtobus tapsirigi\avtobus tapsirigi\bin\Debug\net10.0-windows\avtobus tapsirigi.deps.json
+C:\Users\User\source\repos\avtobus\avtobus tapsirigi\avtobus tapsirigi\bin\Debug\net10.0-windows\avtobus tapsirigi.runtimeconfig.json
+C:\Users\User\source\repos\avtobus\avtobus tapsirigi\avtobus tapsirigi\bin\Debug\net10.0-windows\avtobus tapsirigi.dll
+C:\Users\User\source\repos\avtobus\avtobus tapsirigi\avtobus tapsirigi\bin\Debug\net10.0-windows\avtobus tapsirigi.pdb
+C:\Users\User\source\repos\avtobus\avtobus tapsirigi\avtobus tapsirigi\obj\Debug\net10.0-windows\avtobus tapsirigi.dll
+C:\Users\User\source\repos\avtobus\avtobus tapsirigi\avtobus tapsirigi\obj\Debug\net10.0-windows\refint\avtobus tapsirigi.dll
+C:\Users\User\source\repos\avtobus\avtobus tapsirigi\avtobus tapsirigi\obj\Debug\net10.0-windows\avtobus tapsirigi.pdb
+C:\Users\User\source\repos\avtobus\avtobus tapsirigi\avtobus tapsirigi\obj\Debug\net10.0-windows\avtobus tapsirigi.genruntimeconfig.cache
+C:\Users\User\source\repos\avtobus\avtobus tapsirigi\avtobus tapsirigi\obj\Debug\net10.0-windows\ref\avtobus tapsirigi.dll
+C:\Users\User\source\repos\avtobus\avtobus tapsirigi\avtobus tapsirigi\obj\Debug\net10.0-windows\avtobus .1DD127CC.Up2Date
